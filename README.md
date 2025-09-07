@@ -26,6 +26,9 @@ Provided business recommendations to increase sales.
 
 📂 Project Structure ├── Vrinda_Store_Analysis.xlsx   # Main Excel file with dashboard & analysis ├── README.md                    # Project documentation
 
+Dashboard Preview: 
+<img width="1282" height="577" alt="Screenshot 2025-09-07 at 2 11 29 PM" src="https://github.com/user-attachments/assets/3e7b7a98-f0d7-434b-9870-9f7d9208e61d" />
+
 🚀 How to Use
 Download the Excel file from this repository.
 Open it in MS Excel (Desktop version recommended).
